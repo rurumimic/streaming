@@ -1,6 +1,7 @@
 # Streaming
 
 - [docs](docs/README.md)
+- [beam](beam/README.md)
 
 ---
 
@@ -34,5 +35,7 @@
 
 ### Application
 
+- [Apache Beam](https://beam.apache.org/)
+  - go: [examples](https://github.com/apache/beam/tree/master/sdks/go/examples)
 - [Apache Flink](https://flink.apache.org/)
 - [Google Dataflow](https://cloud.google.com/dataflow)
